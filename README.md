@@ -144,3 +144,5 @@ File an issue:
 Follow us on twitter: @pdfjs
 
 + https://twitter.com/pdfjs
+
+--------------------------------
